@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(245,245,245);
+}
+
+.logo{
+
+    padding: 15px;
+}
+
+
+.imgcrr{
+    height: 80vh;
+    object-fit: cover;
+}
